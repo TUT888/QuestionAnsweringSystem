@@ -6,8 +6,7 @@
 
 Đồ án bao gồm các phần:
 
-1. Đọc dữ liệu các hỏi đáp: 
-- Dữ liệu các cặp câu hỏi-đáp được thu thập từ các bạn trong lớp. Những dữ liệu này đều được chia theo từng chủ đề.
+1. Đọc dữ liệu các hỏi đáp: Dữ liệu các cặp câu hỏi-đáp được thu thập từ các bạn trong lớp. Những dữ liệu này đều được chia theo từng chủ đề.
 2. Trích xuất đặc trưng dữ liệu văn bản: Sử dụng kỹ thuật TF-IDF để trích xuất đặc trưng
 3. Huấn luyện và dự đoán chủ đề của câu hỏi
 4. Tìm câu trả lời từ câu hỏi nhập vào
@@ -28,5 +27,11 @@ Phiên bản sử dụng của một số thư viện
 - File retrieval_based_qa.ipynb: file Jupyter Notebook của dự án
 - Folder chatbot: các file text chứa dữ liệu các cặp câu hỏi-đáp theo chủ đề
   
-## Tham khảo
+## Reference 
 Tham khảo mục 'Information Retrieval based chatbots (IR-based)' tại: [Tìm hiểu và xây dựng hệ thống chatbot trong thực tế](https://viblo.asia/p/tim-hieu-va-xay-dung-cac-he-thong-chatbot-trong-thuc-the-XL6lA8D4Zek)
+
+## Authors
+Dự án cuối kỳ được thực hiện bởi nhóm gồm 3 thành viên:
+- Tất Uyển Tâm [Github](https://github.com/TUT888)
+- Dương Thủy Tiên [Github](https://github.com/tienduong-21)
+- Trương Hiểu San [Github](https://github.com/hs0512)
